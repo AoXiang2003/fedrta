@@ -1,0 +1,7 @@
+# Install the PyTorch build matching the cloud host's CUDA version first:
+# https://pytorch.org/get-started/locally/
+torch
+transformers
+datasets
+numpy
+matplotlib
